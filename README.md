@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @parkarsayali
 - 👀 I’m interested in full-stack web development(mern)
-- 🌱 I’m currently learning server-driven UI
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on MERN stack projects.
 - 📫 How to reach me ...
 
 <!---
